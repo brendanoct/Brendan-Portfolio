@@ -8,6 +8,6 @@
 - Primarily through the use of **K-Means clustering**, I explored how food consumption contributes to CO2 emissions
 - Using the data, I was able to uncover groups of countries, as well as food categories that were responsible for a considerable amount of CO2 emissions
 - I also undertook exploratory data analysis to see how non-animal product consumption relates to CO2 emissions relative to other countries
-- My aim is to find these countries, and hope that this information can be useful for them to consider encouraging a shift in consumption tendencies of their citizens in aim of slowing down climate change
+- My aim is to find these countries, and hope that this information can be useful for them to consider encouraging a shift in consumption tendencies of their citizens in aims of slowing down climate change
 
 <img src="https://raw.githubusercontent.com/brendanoct/Brendan-Portfolio/main/images/graph_3.png" width="300">
