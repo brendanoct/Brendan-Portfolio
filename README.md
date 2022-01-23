@@ -1,8 +1,8 @@
 ## [Project 1: Food Consumption and CO2 Emissions](https://github.com/brendanoct/food-cons-co2)
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/brendanoct/Brendan-Portfolio/main/images/cluster_graph_1.png" width="300" />
-  <img src="https://raw.githubusercontent.com/brendanoct/Brendan-Portfolio/main/images/cluster_graph_2.png" width="300" />
+  <img src="https://raw.githubusercontent.com/brendanoct/Brendan-Portfolio/main/images/cluster_graph_1.png" width="200" />
+  <img src="https://raw.githubusercontent.com/brendanoct/Brendan-Portfolio/main/images/cluster_graph_2.png" width="200" />
 </p>
 
 - Primarily through the use of **K-Means clustering**, I explored how food consumption contributes to CO2 emissions
