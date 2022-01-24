@@ -1,3 +1,5 @@
+# My Projects
+
 ## [Project 1: Food Consumption and CO2 Emissions](https://github.com/brendanoct/food-cons-co2)
 
 You can also view my code in a PDF document [here](https://github.com/brendanoct/food-cons-co2/blob/main/Food-Consumption-and-CO2-Emissions.pdf).
