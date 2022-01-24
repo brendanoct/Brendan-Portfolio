@@ -1,5 +1,7 @@
 ## [Project 1: Food Consumption and CO2 Emissions](https://github.com/brendanoct/food-cons-co2)
 
+You can also view my code in a PDF document [here](https://github.com/brendanoct/Brendan-Portfolio/blob/main/project_1/Food-Consumption-and-CO2-Emissions.pdf).
+
 <p float="left">
   <img src="https://raw.githubusercontent.com/brendanoct/Brendan-Portfolio/main/images/cluster_graph_1.png" width="200" />
   <img src="https://raw.githubusercontent.com/brendanoct/Brendan-Portfolio/main/images/cluster_graph_2.png" width="200" />
