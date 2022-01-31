@@ -6,7 +6,7 @@
 
 - Utilising data fron NYC Department of Finance, I was attempting to use the data to predict and explain house prices in New York City
 - Through **linear regression**, I was able to create a model using meaningful variables in an attempt to predict and explain the sale price of houses
-- **Cross validation** was used to help determine how skilled my model was
+- **K-Fold Cross validation** was used to help determine how skilled my model was
 - My aim with this project was to see mainly how well the size of a house explain or predict sale price across New York City
 
 ## [Project 1: Food Consumption and CO2 Emissions](https://github.com/brendanoct/food-cons-co2)
