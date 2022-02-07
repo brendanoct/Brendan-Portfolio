@@ -2,8 +2,8 @@
 
 ## [Project 3: Predicting Airbnb Prices](https://github.com/brendanoct/melb-airbnb-prices)
 
-- By analysing data from Inside Airbnb, I attempted to predict Airbnb prices in Melbourne through the use of the supervised learning technique **K-Nearest Neighbours**, 
-- **Hyperparameter Optimisation** was implemented to find the optimal value of **k** for our model
+- By analysing data from Inside Airbnb, I attempted to predict Airbnb prices in Melbourne through the use of the supervised learning technique **K-Nearest Neighbours**
+- **Hyperparameter Optimisation** was also required to find the optimal value of **k** for our model
 - My aim with this project was to see how well I could predict Airbnb prices in Melbourne, which could be useful for people looking to book holidays, seeking accommdation potentially through Airbnb
 
 <img src="https://raw.githubusercontent.com/brendanoct/Brendan-Portfolio/main/images_proj3/unnamed-chunk-8-1.png" width="500" />
