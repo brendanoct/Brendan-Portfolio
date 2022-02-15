@@ -1,5 +1,12 @@
 # My Projects
 
+## [Project 4: Game 7 2016 NBA Finals](https://github.com/brendanoct/game-7-2016-nba-finals)
+
+<img src="https://raw.githubusercontent.com/brendanoct/Brendan-Portfolio/main/images_proj4/Screenshot_of_Tableau_Dashboard.png" width="500" />
+
+- **Web scraping**, a highly important tool in the world of data analytics was used to retrieve data from ESPN regarding this particular NBA game
+- My aim was to build a dashboard which provides an insight into the individual and team performances in this game between the Cleveland Cavaliers and Golden State Warriors
+
 ## [Project 3: Predicting Airbnb Prices](https://github.com/brendanoct/melb-airbnb-prices)
 
 - By analysing data from Inside Airbnb, I attempted to predict Airbnb prices in Melbourne through the use of the supervised learning technique **K-Nearest Neighbours**
