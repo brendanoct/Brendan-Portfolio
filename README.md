@@ -1,5 +1,15 @@
 # My Projects
 
+## [Project 5: Retail Forecasting](https://github.com/brendanoct/retail-forecasting)
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/brendanoct/Brendan-Portfolio/main/images_proj5/unnamed-chunk-36-1.png" width="400" />
+  <img src="https://raw.githubusercontent.com/brendanoct/Brendan-Portfolio/main/images_proj5/unnamed-chunk-40-1.png" width="400" />
+</p>
+
+- **Forecasting** is about predicting the future as accurately as possible based on past information that is available. In particular, I have explored **ARIMA and ETS** models in order to find the most optimal forecasting model based on the data used
+- My aim was to predict retail turnover numbers as accurately as possible, providing a method that can be potentially useful for businesses within the particular sector that was analysed
+
 ## [Project 4: Game 7 2016 NBA Finals](https://github.com/brendanoct/game-7-2016-nba-finals)
 
 <img src="https://raw.githubusercontent.com/brendanoct/Brendan-Portfolio/main/images_proj4/Screenshot_of_Tableau_Dashboard.png" width="500" />
