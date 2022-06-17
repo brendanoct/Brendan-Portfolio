@@ -3,8 +3,8 @@
 ## [Project 5: Retail Forecasting](https://github.com/brendanoct/retail-forecasting)
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/brendanoct/Brendan-Portfolio/main/images_proj5/unnamed-chunk-36-1.png" width="400" />
-  <img src="https://raw.githubusercontent.com/brendanoct/Brendan-Portfolio/main/images_proj5/unnamed-chunk-40-1.png" width="400" />
+  <img src="https://raw.githubusercontent.com/brendanoct/Brendan-Portfolio/main/images_proj5/unnamed-chunk-36-1.png" width="200" />
+  <img src="https://raw.githubusercontent.com/brendanoct/Brendan-Portfolio/main/images_proj5/unnamed-chunk-40-1.png" width="200" />
 </p>
 
 - **Forecasting** is about predicting the future as accurately as possible based on past information that is available. In particular, I have explored **ARIMA and ETS** models in order to find the most optimal forecasting model based on the data used
