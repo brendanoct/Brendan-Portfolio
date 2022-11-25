@@ -1,5 +1,14 @@
 # My Projects
 
+## [Project 6: Insurance Pricing Tool](https://brendanoct.shinyapps.io/insurance_pricing_tool/)
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/brendanoct/Brendan-Portfolio/main/images_proj6/insurance_pricing.png" width="500" />
+</p>
+
+- General insurance, and in particular life insurance, has a number of factors that must be considered when pricing. One method that can be used to calculate premiums is the **equivalence principle**
+- Utilising **R Shiny, a number of actuarial equations and AM92 Mortality Tables**, I aim to provide an interactive and user-friendly tool for insurance companies to **calculate appropriate premiums for various life insurance contracts**
+
 ## [Project 5: Retail Forecasting](https://github.com/brendanoct/retail-forecasting)
 
 <p float="left">
